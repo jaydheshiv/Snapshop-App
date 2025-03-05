@@ -103,6 +103,7 @@ snapshop/
 3. ![Image](https://github.com/user-attachments/assets/b3d7a4bd-b9d8-4ccc-a0c9-ceb976f3e506)
 4. ![Image](https://github.com/user-attachments/assets/48fde3dd-5757-4654-bf23-e02d8aa7df9f)
 5. ![Image](https://github.com/user-attachments/assets/b0708349-540e-4597-b180-e7a6ee8da3c0)
-6. 
+6. ![Image](https://github.com/user-attachments/assets/de1b993a-4210-497a-810f-03b2884ac7fe)
+7. ![Image](https://github.com/user-attachments/assets/4c7c2f19-0a55-4439-955f-3a4728faff71)
 
 
