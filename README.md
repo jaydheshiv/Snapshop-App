@@ -95,3 +95,5 @@ snapshop/
  5️⃣ **Database Integration for Offline Mode**
 - Firebase Firestore for real-time data synchronization.
 - SQLite stores user preferences and past searches for offline access.
+- ![WhatsApp Image 2025-02-25 at 15 42 44_5148c627](https://github.com/user-attachments/assets/1af46270-c1da-432e-bee3-fca88f6bc53a)
+
